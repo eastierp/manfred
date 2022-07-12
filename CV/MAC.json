@@ -1,0 +1,185 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Emilio",
+      "surnames": "Astier Peña",
+      "title": "Java Full Stack Developer",
+      "avatar": {
+        "alt": "1645605934464.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/e63d5e67-b5aa-4064-b209-05bf63534383_1645605934464.jpg"
+      },
+      "location": {
+        "notes": "Zaragoza"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/eastierp"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/emilio-astier-pe%C3%B1a/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "TECNARA ",
+          "image": {
+            "alt": "3Xh5wxGE_400x400.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/4711bb39-5a7b-4ac0-a5f4-1a23000d4438_3xh5wxge_400x400.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Java Full Stack Developer",
+            "startDate": "2021-10-01",
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Mano Amiga",
+          "description": "Aplicación Web desarollada en Java y Spring Boot para aplicaciones del Tercer Sector en Zaragoza",
+          "URL": "https://github.com/eastierp/manoamiga",
+          "image": {
+            "alt": "logoOriginal.PNG",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/f6fcac8e-8b8b-45e7-bbb0-d776f1c68aea_logooriginal.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-10-01",
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "French"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/emilio-astier-pe%C3%B1a/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Burp suite",
+          "type": "technology"
+        },
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "Jenkins",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
